@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<notification number="5">
+ <notification-node assoc-user="DESKTOP-H5OG31I" id="jaQmc" type="NOTIF_INVITE">
+  <date-time>09/06/20 22:57:37</date-time>
+  <body>DESKTOP-H5OG31I invites you to join IT Department group</body>
+ </notification-node>
+<notification-node assoc-user="DESKTOP-H5OG31I" id="7Xn3P" type="NOTIF_INVITE">
+  <date-time>10/06/20 01:37:20</date-time>
+  <body>DESKTOP-H5OG31I invites you to join Accounting Department group</body>
+ </notification-node>
+<notification-node assoc-user="DESKTOP-H5OG31I" id="Qnihr" type="NOTIF_INVITE">
+  <date-time>10/06/20 01:37:35</date-time>
+  <body>DESKTOP-H5OG31I invites you to join Human Resource Department group</body>
+ </notification-node>
+<notification-node assoc-user="DESKTOP-H5OG31I" id="YQDV6" type="NOTIF_INVITE">
+  <date-time>10/06/20 01:38:10</date-time>
+  <body>DESKTOP-H5OG31I invites you to join Payroll Department group</body>
+ </notification-node>
+<notification-node assoc-user="DESKTOP-H5OG31I" id="ltyIG" type="NOTIF_INVITE">
+  <date-time>11/06/20 08:55:24</date-time>
+  <body>DESKTOP-H5OG31I invites you to join Maintenance Department group</body>
+ </notification-node>
+</notification>

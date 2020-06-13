@@ -1,0 +1,202 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\HP\Documents\NetBeansProjects\NathChatClient\exeFile\NathChatClient.exe --l4j-debug
+WOW64:		yes
+Create mutex:	NathChatClient
+Working dir:	C:\Users\HP\Documents\NetBeansProjects\NathChatClient\exeFile\.
+Java min ver:	1.008.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_45\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_45
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_45\bin\javaw.exe (OK)
+Match:		1.008.000_045
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_45
+Ignore:		1.008.000_045
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_045 (32-bit)
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_45\bin\javaw.exe
+Launcher args:	-jar "C:\Users\HP\Documents\NetBeansProjects\NathChatClient\exeFile\NathChatClient.exe"
+Args length:	87/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	C:\Users\HP\Documents\NetBeansProjects\NathChatClient\exeFile\NathChatClient.exe --l4j-debug
+WOW64:		yes
+Create mutex:	NathChatClient
+Working dir:	C:\Users\HP\Documents\NetBeansProjects\NathChatClient\exeFile\.
+Java min ver:	1.008.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_45\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_45
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_45\bin\javaw.exe (OK)
+Match:		1.008.000_045
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_45
+Ignore:		1.008.000_045
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_045 (32-bit)
+Main class:	nathChatClientView.NathChatClient
+Add classpath:	lib\NathLib.jar
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_45\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\HP\Documents\NetBeansProjects\NathChatClient\exeFile\NathChatClient.exe;lib\NathLib.jar" nathChatClientView.NathChatClient
+Args length:	143/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	C:\Users\HP\Documents\NetBeansProjects\NathChatClient\exeFile\NathChatClient.exe --l4j-debug
+WOW64:		yes
+Create mutex:	NathChatClient
+Working dir:	C:\Users\HP\Documents\NetBeansProjects\NathChatClient\exeFile\.
+Java min ver:	1.008.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_45\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_45
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_45\bin\javaw.exe (OK)
+Match:		1.008.000_045
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_45
+Ignore:		1.008.000_045
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_045 (32-bit)
+Main class:	nathChatClientView.NathChatClient
+Add classpath:	lib\NathLib.jar
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_45\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\HP\Documents\NetBeansProjects\NathChatClient\exeFile\NathChatClient.exe;lib\NathLib.jar" nathChatClientView.NathChatClient
+Args length:	143/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	C:\Users\HP\Documents\NetBeansProjects\NathChatClient\exeFile\NathChatClient.exe --l4j-debug
+WOW64:		yes
+Create mutex:	NathChatClient
+Working dir:	C:\Users\HP\Documents\NetBeansProjects\NathChatClient\exeFile\.
+Java min ver:	1.008.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_45\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_45
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_45\bin\javaw.exe (OK)
+Match:		1.008.000_045
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_45
+Ignore:		1.008.000_045
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_045 (32-bit)
+Main class:	nathChatClientView.NathChatClient
+Info:		Classpath not defined.
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_45\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\HP\Documents\NetBeansProjects\NathChatClient\exeFile\NathChatClient.exe" nathChatClientView.NathChatClient
+Args length:	127/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	C:\Users\HP\Documents\NetBeansProjects\NathChatClient\exeFile\NathChatClient.exe --l4j-debug
+WOW64:		yes
+Create mutex:	NathChatClient
+Working dir:	C:\Users\HP\Documents\NetBeansProjects\NathChatClient\exeFile\.
+Java min ver:	1.008.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_45\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_45
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_45\bin\javaw.exe (OK)
+Match:		1.008.000_045
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_45
+Ignore:		1.008.000_045
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_045 (32-bit)
+Main class:	nathChatClientView.NathChatClient
+Add classpath:	lib\NathLib.jar
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_45\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\HP\Documents\NetBeansProjects\NathChatClient\exeFile\NathChatClient.exe;lib\NathLib.jar" nathChatClientView.NathChatClient
+Args length:	143/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	C:\Users\HP\Documents\NetBeansProjects\NathChatClient\exeFile\NathChatClient.exe --l4j-debug
+WOW64:		yes
+Create mutex:	NathChatClient
+Working dir:	C:\Users\HP\Documents\NetBeansProjects\NathChatClient\exeFile\.
+Java min ver:	1.008.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_45\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_45
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_45\bin\javaw.exe (OK)
+Match:		1.008.000_045
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_45
+Ignore:		1.008.000_045
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_045 (32-bit)
+Main class:	nathChatClientView.NathChatClient
+Add classpath:	lib\NathLib.jar
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_45\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\HP\Documents\NetBeansProjects\NathChatClient\exeFile\NathChatClient.exe;lib\NathLib.jar" nathChatClientView.NathChatClient
+Args length:	143/32768 chars
+Exit code:	0

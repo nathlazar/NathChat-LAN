@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groupList>
+ <group creator="DESKTOP-H5OG31I" groupID="WaymO" status="active">
+  <groupName>IT Department</groupName>
+ </group>
+<group creator="DESKTOP-H5OG31I" groupID="QIkv0" status="active">
+  <groupName>Accounting Department</groupName>
+ </group>
+<group creator="DESKTOP-H5OG31I" groupID="bB44o" status="active">
+  <groupName>Human Resource Department</groupName>
+ </group>
+<group creator="DESKTOP-H5OG31I" groupID="ONjRc" status="active">
+  <groupName>Payroll Department</groupName>
+ </group>
+<group creator="DESKTOP-H5OG31I" groupID="UEV18" status="active">
+  <groupName>Maintenance Department</groupName>
+ </group>
+</groupList>

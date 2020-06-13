@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversation assoc-user="DESKTOP-H5OG31I">
+ <message id="MoaDN" status="sent" type="sender" user="DESKTOP-H5OG31I">
+  <date-time>10/06/20 22:33:05</date-time>
+  <body>
+   <string bold="BOLD_OFF" font-family="FONT_FAM_CALIBRI" italic="ITALIC_OFF">Hello</string>
+  </body>
+ </message>
+<message id="MoaDN" status="unseen" type="receiver" user="DESKTOP-H5OG31I">
+  <date-time>10/06/20 22:33:05</date-time>
+  <body>
+   <string bold="BOLD_OFF" font-family="FONT_FAM_CALIBRI" italic="ITALIC_OFF">Hello</string>
+  </body>
+ </message>
+</conversation>
